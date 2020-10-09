@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+
+    <plurals name="welcome_messages">
+        <item quantity="one">Найден %d контакт.</item>
+        <item quantity="few">Найдено %d контакта.</item>
+        <item quantity="other">Найдено %d контактов.</item>
+    </plurals>
+</resources>
